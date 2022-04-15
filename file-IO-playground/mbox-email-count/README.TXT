@@ -1,0 +1,2 @@
+This Projects features a python script 'mbox_txt_email_count.py' which simply opens and  counts the emails in mbox.txt returns them from the highest to the lowest.
+Secondly, 'email_database.py' does the same thing as 'mbox_txt_email_count.py' it instead stores this information for us in a database "emaildb.sqlite"
